@@ -22,8 +22,7 @@
 ---
 
 ## 🚀 Projects  
-- 🔹 [Calculator App](#) – Simple calculator using HTML, CSS, JavaScript  
-- 🔹 [Matrix Addition in Java](#) – Java program to add matrices  
+- 🔹 [Calculator Website](#) – Simple calculator using HTML, CSS, JavaScript 
 - 🔹 [Portfolio Website](#) – Personal portfolio (in progress)  
 
 ---
