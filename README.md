@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Deepraj Kumar Gupta  
 
-<!--
-**deeprajkumargupta/deeprajkumargupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE student at **Cambridge Institute of Technology, Bengaluru**  
+💡 Passionate about **Web Development, Problem Solving, and Open Source**  
+🚀 Always curious to learn new technologies and build impactful projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack  
+- **Languages**: Java, C, Python, JavaScript  
+- **Web**: HTML, CSS, DOM, React (learning)  
+- **Tools**: Git, GitHub, VS Code  
+- **Databases**: MySQL (basics)  
+
+---
+
+## 📊 GitHub Stats  
+![Deepraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=deeprajkumargupta&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deeprajkumargupta&layout=compact&theme=tokyonight)  
+
+---
+
+## 🚀 Projects  
+- 🔹 [Calculator App](#) – Simple calculator using HTML, CSS, JavaScript  
+- 🔹 [Matrix Addition in Java](#) – Java program to add matrices  
+- 🔹 [Portfolio Website](#) – Personal portfolio (in progress)  
+
+---
+
+## 🌱 Current Goals  
+- Strengthen **DSA (Data Structures & Algorithms)**  
+- Build **real-world web development projects**  
+- Contribute to **open-source**  
+
+---
+
+## 📫 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/deeprajkumargupta/)  
+- [GitHub](https://github.com/deeprajkumargupta)  
+
+---
+✨ *“Code, Learn, Repeat”* ✨
