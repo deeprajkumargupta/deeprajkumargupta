@@ -23,7 +23,7 @@
 
 ## 🚀 Projects  
 - 🔹 [Calculator Website](https://calculator-coral-one-25.vercel.app/) – Simple calculator using HTML, CSS, JavaScript 
-- 🔹 [Portfolio Website](#) – Personal portfolio (in progress)  
+- 🔹 [Portfolio Website](https://to-do-list-lake-pi-60.vercel.app/) – Personal portfolio using HTML, CSS, JavaScript  
 
 ---
 
