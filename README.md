@@ -52,8 +52,8 @@
 
 ## 🚀 Projects
 
-- 🔹 [Calculator Website](https://calculator-coral-one-25.vercel.app/) – Simple calculator using HTML, CSS, JavaScript
-- 🔹 [Portfolio Website](https://to-do-list-lake-pi-60.vercel.app/) – Personal portfolio using HTML, CSS, JavaScript
+-  [Calculator Website](https://calculator-coral-one-25.vercel.app/) – Simple calculator using HTML, CSS, JavaScript
+-  [To-do List Website](https://to-do-list-lake-pi-60.vercel.app/) – To-do List using HTML, CSS, JavaScript
 
 ---
 
