@@ -43,28 +43,14 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Deepraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=deeprajkumargupta&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deeprajkumargupta&layout=compact&theme=tokyonight)
-
----
 
 ## 🚀 Projects
 
 - 🔹 [Calculator Website](https://calculator-coral-one-25.vercel.app/) – Simple calculator using HTML, CSS, JavaScript
-- 🔹 [Portfolio Website](https://to-do-list-lake-pi-60.vercel.app/) – Personal portfolio using HTML, CSS, JavaScript
+- 🔹 [Todo List App](https://todo-app-react-taskflow.vercel.app/) – Personal portfolio using HTML, CSS, JavaScript
 
 ---
 
-## 🌱 Current Goals
-
-- Strengthen **DSA (Data Structures & Algorithms)**
-- Build **real-world web development projects**
-- Contribute to **open-source**
-
----
 
 ## 📫 Connect with Me  
 
@@ -79,6 +65,5 @@
 </p>
 
 ---
-
 
 ✨ _“Code, Learn, Repeat”_ ✨
