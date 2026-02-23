@@ -44,14 +44,6 @@
 ---
 
 
-## 🚀 Projects
-
-- 🔹 [Calculator Website](https://calculator-coral-one-25.vercel.app/) – Simple calculator using HTML, CSS, JavaScript
-- 🔹 [Todo List App](https://todo-app-react-taskflow.vercel.app/) – Personal portfolio using HTML, CSS, JavaScript
-
----
-
-
 ## 📫 Connect with Me  
 
 <p align="left">
