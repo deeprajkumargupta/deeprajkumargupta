@@ -26,6 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux Toolkit" width="30" height="30"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/express/000000" alt="Express.js" width="30" height="30"/>&nbsp;
   <img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" width="30" alt="Tailwind CSS"/>&nbsp;
 </p>
 
@@ -40,7 +41,7 @@
 ### 🗄️ Databases
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/>&nbsp;
 </p>
 
 ---
