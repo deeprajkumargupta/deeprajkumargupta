@@ -26,7 +26,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux Toolkit" width="30" height="30"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/express/000000" alt="Express.js" width="30" height="30"/>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/FFFFFF">
+    <img src="https://cdn.simpleicons.org/express/000000" alt="Express.js" width="30" height="30"/>
+  </picture>
   <img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" width="30" alt="Tailwind CSS"/>&nbsp;
 </p>
 
@@ -34,8 +37,12 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>&nbsp;
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
+      <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="30" height="30"/>
+    </picture>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30"/>&nbsp;
 </p>
 
 ### 🗄️ Databases
@@ -47,8 +54,7 @@
 
 ---
 
-
-## 📫 Connect with Me  
+## 📫 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/deeprajkumargupta/" target="_blank">
@@ -56,7 +62,10 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/deeprajkumargupta" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="35" style="background-color:white" height="35"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
+      <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="35" height="35"/>
+    </picture>
   </a>
 </p>
 
